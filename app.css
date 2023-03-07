@@ -8,7 +8,7 @@ h1 {
   padding: 5px;
   margin: 5px;
   text-align: center;
-  color: #45a049;
+  color: #ff8b13;
   font-family: "Roboto", sans-serif;
 }
 
@@ -44,7 +44,7 @@ input[type="text"] {
 }
 
 input[type="submit"] {
-  background-color: #4caf50;
+  background-color: #ff8b13;
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
