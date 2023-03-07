@@ -91,7 +91,6 @@ input[type="submit"]:hover {
   width: 80%;
   position: absolute;
   display: flex;
-  background: #45a049;
   flex-direction: row;
   justify-content: space-between;
 }
