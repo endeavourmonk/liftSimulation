@@ -56,6 +56,11 @@ input[type="submit"]:hover {
   background-color: #45a049;
 }
 
+.floorContainer{
+  overflow: auto;
+  min-width: 100vw;
+}
+
 .floor {
   z-index: 0;
   background-color: #e8d5c4;
@@ -83,15 +88,15 @@ input[type="submit"]:hover {
 
 /* lift design */
 .liftContainer {
-  width: 90%;
+  width: 80%;
   position: absolute;
   display: flex;
+  background: #45a049;
   flex-direction: row;
   justify-content: space-between;
 }
 
 .lift {
-  /* position: absolute; */
   min-width: 80px;
   height: 140px;
   background: grey;
