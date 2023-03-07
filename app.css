@@ -56,10 +56,10 @@ input[type="submit"]:hover {
   background-color: #45a049;
 }
 
-.floorContainer{
+/* .floorContainer{
   overflow: auto;
   min-width: 100vw;
-}
+} */
 
 .floor {
   z-index: 0;
